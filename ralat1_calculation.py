@@ -2,13 +2,13 @@
 # Betulkan ralat dalam kod Python ini.
 
 def calculation(a, b):    
-    division = c / d
+    division = a / b
     return round(divisionn, 2)
 
 def get_input():
     x = int(input("Masukkan nombor integer pertama:"))
     y = int(input("Masukkan nombor integer kedua:"))
-    return e, f
+    return x, y
 
 def main():
     (x, y) = get_input(a, b)
